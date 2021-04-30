@@ -2,7 +2,7 @@ import ImageContainer from "./components/GameBoard/ImageContainer";
 import Image from "./components/GameBoard/Image";
 import ImageTitle from "./components/GameBoard/ImageTitle";
 import GameBoard from "./components/GameBoard/GameBoard";
-import imagesPool from "./lib/imagesPool";
+import imagesPool from "./images/imagesPool";
 import NavBar from "./components/NavBar/NavBar";
 import React from "react";
 import suffingArray from "./lib/suffingArray";
@@ -36,7 +36,7 @@ const App = () => {
         {images.map((image) => (
           <ImageContainer key={image.id}>
             <Image
-              src={process.env.PUBLIC_URL + "images/" + image.src}
+              src={image.src}
               onImageClickHanlder={onImageClickHanlder}
               imageID={image.id}
             />
