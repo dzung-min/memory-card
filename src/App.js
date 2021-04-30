@@ -4,6 +4,7 @@ import ImageTitle from "./components/GameBoard/ImageTitle";
 import GameBoard from "./components/GameBoard/GameBoard";
 import imagesPool from "./images/imagesPool";
 import NavBar from "./components/NavBar/NavBar";
+import Instruction from "./components/Instruction";
 import React from "react";
 import suffingArray from "./lib/suffingArray";
 
@@ -32,6 +33,12 @@ const App = () => {
   return (
     <>
       <NavBar score={clickedImages.length} highScore={highScore}></NavBar>
+      <Instruction>
+        <h2>
+          Click on an image to get points, but don't click the same image twice
+        </h2>
+      </Instruction>
+
       <GameBoard>
         {images.map((image) => (
           <ImageContainer key={image.id}>

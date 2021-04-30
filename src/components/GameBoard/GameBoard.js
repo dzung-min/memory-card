@@ -5,7 +5,7 @@ const GameBoard = styled.div`
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 70px;
+  margin-top: 20px;
 `;
 
 export default GameBoard;
