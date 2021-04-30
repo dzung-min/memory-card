@@ -4,7 +4,7 @@ import ScoreBoard from "./ScoreBoard";
 
 const NavBar = ({ score, highScore }) => (
   <NavBarContainer>
-    <NavTitle>Memory Card</NavTitle>
+    <NavTitle>PokeCard</NavTitle>
     <ScoreBoard>
       <table>
         <tbody>
