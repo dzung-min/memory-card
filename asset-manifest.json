@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/memory-card/static/css/main.50373dd8.chunk.css",
-    "main.js": "/memory-card/static/js/main.b29709fe.chunk.js",
-    "main.js.map": "/memory-card/static/js/main.b29709fe.chunk.js.map",
+    "main.js": "/memory-card/static/js/main.5a888809.chunk.js",
+    "main.js.map": "/memory-card/static/js/main.5a888809.chunk.js.map",
     "runtime-main.js": "/memory-card/static/js/runtime-main.714dd9e2.js",
     "runtime-main.js.map": "/memory-card/static/js/runtime-main.714dd9e2.js.map",
     "static/css/2.679831fc.chunk.css": "/memory-card/static/css/2.679831fc.chunk.css",
@@ -11,13 +11,25 @@
     "index.html": "/memory-card/index.html",
     "static/css/2.679831fc.chunk.css.map": "/memory-card/static/css/2.679831fc.chunk.css.map",
     "static/css/main.50373dd8.chunk.css.map": "/memory-card/static/css/main.50373dd8.chunk.css.map",
-    "static/js/2.6fe70e10.chunk.js.LICENSE.txt": "/memory-card/static/js/2.6fe70e10.chunk.js.LICENSE.txt"
+    "static/js/2.6fe70e10.chunk.js.LICENSE.txt": "/memory-card/static/js/2.6fe70e10.chunk.js.LICENSE.txt",
+    "static/media/aegislash_shield.d08cf4f7.png": "/memory-card/static/media/aegislash_shield.d08cf4f7.png",
+    "static/media/aurorus.02970365.png": "/memory-card/static/media/aurorus.02970365.png",
+    "static/media/cobalion.43d52bf4.png": "/memory-card/static/media/cobalion.43d52bf4.png",
+    "static/media/dragonite.338377c1.png": "/memory-card/static/media/dragonite.338377c1.png",
+    "static/media/flapple.d8ea238a.png": "/memory-card/static/media/flapple.d8ea238a.png",
+    "static/media/honchkrow.4855965b.png": "/memory-card/static/media/honchkrow.4855965b.png",
+    "static/media/kingler.6cbe7301.png": "/memory-card/static/media/kingler.6cbe7301.png",
+    "static/media/pangoro.98c7db4c.png": "/memory-card/static/media/pangoro.98c7db4c.png",
+    "static/media/regidrago.cc7a96e1.png": "/memory-card/static/media/regidrago.cc7a96e1.png",
+    "static/media/rhyperior.2383d3a6.png": "/memory-card/static/media/rhyperior.2383d3a6.png",
+    "static/media/sirfetchd.0bf2a190.png": "/memory-card/static/media/sirfetchd.0bf2a190.png",
+    "static/media/victreebel.f1da9b6b.png": "/memory-card/static/media/victreebel.f1da9b6b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.714dd9e2.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.6fe70e10.chunk.js",
     "static/css/main.50373dd8.chunk.css",
-    "static/js/main.b29709fe.chunk.js"
+    "static/js/main.5a888809.chunk.js"
   ]
 }
